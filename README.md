@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adarsh%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — correct demolab /?lines= format -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🤖+Building+Intelligent+AI+Systems;🧠+Machine+Learning+%26+Deep+Learning;🚀+FastAPI+%7C+Flask+%7C+Python+Expert;🔥+Turning+Data+into+Smart+Solutions;💡+Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%A4%96+Building+Intelligent+AI+Systems;%F0%9F%A7%A0+Machine+Learning+%26+Deep+Learning;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Python+Expert;%F0%9F%94%A5+Turning+Data+into+Smart+Solutions;%F0%9F%92%A1+Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -212,11 +212,46 @@ game development
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- GITHUB TROPHIES — CROWN WALL -->
+## 👑 GitHub Crown Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="95%"/>
+
+<table>
+<tr>
+<td align="center" colspan="4">
+
+```
+ ♛ HALL OF ACHIEVEMENTS ♛
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=onedark&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" width="85%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=onedark&no-frame=false&no-bg=false&margin-w=10&margin-h=10&column=4&rank=B,C" width="85%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏅 Achievement | 🎯 Goal | 👑 Status |
+|:---:|:---:|:---:|
+| Commits | Push every day | 🔥 Active |
+| Stars | Quality repos | ⭐ Growing |
+| Followers | Build community | 🚀 Rising |
+| Pull Requests | Contribute more | 💪 Hustling |
+
 </div>
 
 ---
