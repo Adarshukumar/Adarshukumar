@@ -1,176 +1,315 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--              HEADER BANNER                -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adarsh%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Builder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b2e,60:0f3460,100:533483&height=200&section=header&text=Adarsh%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=\u2726%20AI%20Developer%20\u00b7%20ML%20Engineer%20\u00b7%20Full%20Stack%20Builder%20\u2726&descAlignY=58&descSize=17&descColor=a8b2d8" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION — correct demolab /?lines= format -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--           TYPING SVG ANIMATION            -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%A4%96+Building+Intelligent+AI+Systems;%F0%9F%A7%A0+Machine+Learning+%26+Deep+Learning;%F0%9F%9A%80+FastAPI+%7C+Flask+%7C+Python+Expert;%F0%9F%94%A5+Turning+Data+into+Smart+Solutions;%F0%9F%92%A1+Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7EB2FF&center=true&vCenter=true&width=650&height=52&lines=\ud83e\udd16+Building+Intelligent+AI+Systems;\ud83e\udde0+LLMs+\u00b7+RAG+\u00b7+Agents+\u00b7+Deep+Learning;\ud83d\ude80+FastAPI+\u00b7+Flask+\u00b7+Python+Backend+Dev;\ud83d\udd25+Transforming+Ideas+into+AI+Solutions;\ud83d\udca1+Open+Source+\u00b7+Learning+\u00b7+Growing" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--              QUICK STATS ROW              -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Adarshukumar&label=Profile+Views&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/Adarshukumar?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/Adarshukumar)
-  [![GitHub stars](https://img.shields.io/github/stars/Adarshukumar?label=Stars&style=for-the-badge&color=ffd700&logo=github)](https://github.com/Adarshukumar)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Adarshukumar&label=\ud83d\udc41\ufe0f%20Profile%20Views&color=533483&style=for-the-badge)&nbsp;
+  [![GitHub followers](https://img.shields.io/github/followers/Adarshukumar?label=\ud83d\udc65%20Followers&style=for-the-badge&color=0f3460&logo=github&logoColor=white)](https://github.com/Adarshukumar)&nbsp;
+  [![Stars](https://img.shields.io/github/stars/Adarshukumar?label=\u2b50%20Stars&style=for-the-badge&color=1a1b2e&logo=github&logoColor=yellow)](https://github.com/Adarshukumar)
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="AI Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--            ABOUT ME + GIF                 -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 
-### 🧬 `whoami`
+<img align="right" alt="Coding AI GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### \ud83e\uddec `> whoami`
 
 ```yaml
-name: Adarsh Kumar
-role: AI Developer & ML Engineer
-location: India 🇮🇳
+\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557
+  name      :  Adarsh Kumar
+  alias     :  @Adarshukumar
+  role      :  AI Developer & ML Engineer
+  location  :  India \ud83c\uddee\ud83c\uddf3
+  mission   :  Build AI that actually works
+\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d
+
 focus:
-  - Artificial Intelligence & LLMs
-  - Machine Learning Systems
-  - Full Stack AI Applications
-  - API Design & Backend Dev
+  \ud83e\udd16  Artificial Intelligence & LLMs
+  \ud83e\udde0  Machine Learning & Deep Learning
+  \ud83c\udf10  Full Stack AI Applications
+  \ud83d\udd0c  API Design & Backend Systems
+
 currently:
-  - 🔭 Building intelligent AI-powered tools
-  - 🌱 Exploring LangChain, RAG & Agents
-  - 🤝 Open to AI/ML collaborations
-  - ⚡ Speedrunning side projects
-superpower: "Turning caffeine into AI models ☕🤖"
+  \ud83d\udd2d  Building autonomous AI agents
+  \ud83c\udf31  Deep-diving into RAG + LangChain
+  \ud83e\udd1d  Open to AI/ML collaborations
+  \u26a1  Shipping side projects fast
+
+fun_fact: "I debug with print() \u2014 no shame \ud83d\udee0\ufe0f"
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- CONNECT / SOCIAL LINKS -->
-## 🌐 Find Me Online
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--          \ud83c\udf10 CONNECT WITH ME               -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Connect With Me
+
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adarshukumar-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshukumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Adarshukumar)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Adarshukumar)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Adarshukumar)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshukumar@gmail.com)
+<!-- ROW 1 \u2014 PRIMARY SOCIALS -->
+<a href="https://github.com/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Adarshukumar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>&nbsp;
+<a href="https://instagram.com/adarshu.io" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-adarshu.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>&nbsp;
+<a href="https://x.com/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-@Adarshukumar-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Adarshukumar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Compete-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Adarshukumar)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/Adarshukumar)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Adarshukumar)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Games-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://Adarshukumar.itch.io)
-[![Discord](https://img.shields.io/badge/Discord-Chat-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Adarshukumar)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask-%23FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/Adarshukumar)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Adarshukumar)
+<br/><br/>
+
+<!-- ROW 2 \u2014 DEV PLATFORMS -->
+<a href="https://leetcode.com/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Adarshukumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>&nbsp;
+<a href="https://kaggle.com/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Adarshukumar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" />
+</a>&nbsp;
+<a href="https://hackerrank.com/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Adarshukumar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1ba94c" />
+</a>&nbsp;
+<a href="https://dev.to/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Adarshukumar-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" />
+</a>
+
+<br/><br/>
+
+<!-- ROW 3 \u2014 MORE PLATFORMS -->
+<a href="https://youtube.com/@Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-@Adarshukumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" />
+</a>&nbsp;
+<a href="https://Adarshukumar.itch.io" target="_blank">
+  <img src="https://img.shields.io/badge/Itch.io-Adarshukumar-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=FA5C5C" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Adarshukumar-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" />
+</a>&nbsp;
+<a href="https://discord.com/users/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Adarshukumar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
+</a>
+
+<br/><br/>
+
+<!-- ROW 4 \u2014 CONTACT -->
+<a href="mailto:adarshukumar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-adarshukumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>&nbsp;
+<a href="https://huggingface.co/Adarshukumar" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-Adarshukumar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E" />
+</a>
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-## 🛠️ Tech Arsenal
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--            \ud83d\udee0 TECH STACK                  -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 
-### 🤖 AI / Machine Learning
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"/> Tech Arsenal
+
+<details open>
+<summary><b>\ud83e\udd16 AI / Machine Learning</b></summary>
+<br/>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
+</details>
 
-### 🌐 Backend & APIs
+<details open>
+<summary><b>\ud83c\udf10 Backend & APIs</b></summary>
+<br/>
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
+</details>
 
-### 💻 Languages & Frontend
+<details open>
+<summary><b>\ud83d\udcbb Languages & Frontend</b></summary>
+<br/>
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
+</details>
 
-### 🗄️ Databases & Cloud
+<details open>
+<summary><b>\ud83d\uddc4\ufe0f Databases & Cloud</b></summary>
+<br/>
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+</details>
 
-### ⚙️ Tools & Platforms
+<details>
+<summary><b>\u2699\ufe0f Tools & Platforms</b></summary>
+<br/>
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+</div>
+</details>
+
+---
+
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--            \ud83d\ude80 CURRENT FOCUS               -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28"/> What I'm Building
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="220" style="border-radius:10px">
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="60"/><br/>
+      <b>\ud83e\udd16 AI Agents</b><br/>
+      <sub>Autonomous LLM-powered<br/>multi-step reasoning agents</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60"/><br/>
+      <b>\ud83e\udde0 RAG Pipelines</b><br/>
+      <sub>Retrieval-Augmented<br/>Generation systems</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="60"/><br/>
+      <b>\u26a1 AI APIs</b><br/>
+      <sub>Production FastAPI<br/>+ ML microservices</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="60"/><br/>
+      <b>\ud83c\udfae AI \u00d7 Games</b><br/>
+      <sub>Applying ML to<br/>game development</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-<!-- CURRENT FOCUS -->
-## 🚀 What I'm Working On
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--            \ud83d\udcca GITHUB STATS                -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-  
-🤖 **AI Agents**  
-Building autonomous  
-LLM-powered agents
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-45a16ede-0955-4d7d-bebc-9c73c82f7b17.png" width="28"/> GitHub Stats
 
-</td>
-<td align="center" width="200">
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Adarshukumar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&card_width=400" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshukumar&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&card_width=340" />
+</div>
 
-🧠 **RAG Systems**  
-Retrieval-Augmented  
-Generation pipelines
+<br/>
 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Adarshukumar&theme=midnight-purple&hide_border=true&stroke=7F3FBF&ring=A855F7&fire=FF7043&currStreakLabel=A855F7" width="55%"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshukumar&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true&area_color=3b0764" width="95%"/>
+</div>
+
+---
+
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+<!--         \ud83c\udfc5 ACHIEVEMENTS WALL              -->
+<!-- \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122040-43fa8a9a-42c8-48e5-8a5f-b12cd3b75fc8.png" width="28"/> Achievements & Milestones
+
+<br/>
+
+<div align="center">
+
+```
+\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u250
 </td>
 <td align="center" width="200">
 
