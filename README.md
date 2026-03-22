@@ -37,8 +37,12 @@
 
 <!-- ════════════════════  ABOUT ME  ════════════════════ -->
 
-<img align="right" alt="Code with Adarsh" width="280"
-  src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+<div align="right" style="float:right; margin-left:20px; margin-bottom:10px;">
+  <img alt="Code with Adarsh" width="280"
+    src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <br/>
+  <sub>💻 &nbsp; <i>Code with Adarsh</i></sub>
+</div>
 
 ### 🧬 &nbsp;`> whoami`
 
@@ -82,7 +86,7 @@ motto    : "Build fast. Break things. Learn faster."
 
 <br/>
 
-<!-- ── Icon-style socials — all 48px fav-icon images ── -->
+<!-- ── Cute colorful favicon-style icons ── -->
 <p align="center">
 
   <a href="https://linkedin.com/in/Adarshukumar" title="LinkedIn">
@@ -97,17 +101,17 @@ motto    : "Build fast. Break things. Learn faster."
 
   <a href="https://github.com/Adarshukumar" title="GitHub">
     <img alt="GitHub" width="48px"
-      src="https://img.icons8.com/fluent/48/github.png"/>
+      src="https://img.icons8.com/fluency/48/github.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://instagram.com/adarshu.io" title="Instagram">
     <img alt="Instagram" width="48px"
-      src="https://img.icons8.com/color/48/instagram-new.png"/>
+      src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
     <img alt="X Twitter" width="48px"
-      src="https://img.icons8.com/color/48/twitterx--v1.png"/>
+      src="https://img.icons8.com/fluency/48/twitterx.png"/>
   </a>
 
 </p>
@@ -116,22 +120,22 @@ motto    : "Build fast. Break things. Learn faster."
 
   <a href="https://youtube.com/@Adarshukumar" title="YouTube">
     <img alt="YouTube" width="48px"
-      src="https://img.icons8.com/color/48/youtube-play.png"/>
+      src="https://img.icons8.com/fluency/48/youtube-play.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://discord.com/users/Adarshukumar" title="Discord">
     <img alt="Discord" width="48px"
-      src="https://img.icons8.com/color/48/discord-logo.png"/>
+      src="https://img.icons8.com/fluency/48/discord-logo.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="mailto:adarshukumar@gmail.com" title="Gmail">
     <img alt="Gmail" width="48px"
-      src="https://img.icons8.com/color/48/gmail-new.png"/>
+      src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://huggingface.co/Adarshukumar" title="HuggingFace">
     <img alt="HuggingFace" width="48px"
-      src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
+      src="https://img.icons8.com/color/48/hugging-face.png"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://hackerrank.com/Adarshukumar" title="HackerRank">
@@ -141,7 +145,7 @@ motto    : "Build fast. Break things. Learn faster."
 
   <a href="https://Adarshukumar.itch.io" title="Itch.io">
     <img alt="Itch.io" width="48px"
-      src="https://img.icons8.com/color/48/itch-io.png"/>
+      src="https://img.icons8.com/fluency/48/itch-io.png"/>
   </a>
 
 </p>
@@ -302,26 +306,41 @@ motto    : "Build fast. Break things. Learn faster."
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:302b63&text=%E2%9C%A6%20%20HALL%20OF%20ACHIEVEMENTS%20%20%E2%9C%A6&fontColor=FFD700&fontSize=20&height=52&fontAlign=50&fontAlignY=55&animation=fadeIn" width="72%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=55&text=%F0%9F%8F%86%20%20Hall%20of%20Achievements%20%20%F0%9F%8F%86&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=60&animation=fadeIn" width="75%"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="90%"
-    src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&column=4"/>
+<!-- Trophies — nord theme, most reliable -->
+<img width="92%"
+  src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=nord&no-frame=false&no-bg=true&margin-w=14&margin-h=14&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
-  <br/>
+<br/><br/>
 
-  <img src="https://img.shields.io/badge/⭐%20Rising%20Star-Daily%20Commits-2ea44f?style=for-the-badge&labelColor=1a1b27"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🚀%20Launcher-Repos%20shipped-302b63?style=for-the-badge&labelColor=1a1b27"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/💫%20Star%20Gazer-Quality%20code-blue?style=for-the-badge&labelColor=1a1b27"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/👾%20Contributor-Open%20Source-orange?style=for-the-badge&labelColor=1a1b27"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🌍%20Builder-Community%20%26%20Impact-7eb2ff?style=for-the-badge&labelColor=1a1b27"/>
+<!-- Playful achievement cards -->
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-🟢%20ACTIVE-success?style=flat-square&labelColor=0d1117"/>
+      <br/><b>⭐ Rising Star</b>
+      <br/><sub>Daily commits<br/>never stop 💪</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-🚀%20GROWING-blueviolet?style=flat-square&labelColor=0d1117"/>
+      <br/><b>🚀 Launcher</b>
+      <br/><sub>Shipping repos<br/>like a factory 🏭</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-💫%20CLIMBING-blue?style=flat-square&labelColor=0d1117"/>
+      <br/><b>💫 Star Gazer</b>
+      <br/><sub>Quality > quantity<br/>always ✨</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/-👾%20HUSTLING-orange?style=flat-square&labelColor=0d1117"/>
+      <br/><b>👾 Contributor</b>
+      <br/><sub>Open source<br/>all day 🌍</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
