@@ -1,36 +1,33 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--   ADARSH KUMAR — GitHub Profile README  ·  Final Version   -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--         ADARSH KUMAR — GitHub Profile README  ·  2025 Edition       -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                        HEADER BANNER                          -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  HEADER BANNER  ════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:16213e,70:0f3460,100:533483&height=220&section=header&text=Adarsh%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=57&descSize=18&descColor=c8d6f0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0c29,60:302b63,100:24243e&height=230&section=header&text=Adarsh%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=57&descSize=19&descColor=b0c4de" width="100%"/>
 </div>
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                TYPING SVG  (100% working)                     -->
-<!--   Rules: no raw emoji, use %7C for |, %26 for &, + for space -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  BLOB + TYPING  ════════════════════ -->
 <div align="center">
+  <img src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="48" />
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=7EB2FF&background=00000000&center=true&vCenter=true&width=620&height=50&lines=AI+Developer+%26+ML+Engineer;Building+Intelligent+AI+Systems;LLMs+%7C+RAG+%7C+Agents+%7C+Deep+Learning;FastAPI+%7C+Flask+%7C+Python+Expert;Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=7EB2FF&background=00000000&center=true&vCenter=true&width=650&height=52&lines=AI+Developer+%26+ML+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Agents+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+LangChain+%7C+Deep+Learning;FastAPI+%7C+Flask+%7C+Python+Expert+%F0%9F%90%8D;Open+Source+Contributor+%26+Builder+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- VISITOR BADGES -->
+<!-- ════════════════════  VISITOR BADGES  ════════════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarshukumar&label=Profile+Views&color=533483&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Adarshukumar&label=Profile+Views&color=302b63&style=for-the-badge" alt="profile views"/>
   &nbsp;
   <a href="https://github.com/Adarshukumar?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adarshukumar?label=Followers&style=for-the-badge&color=0f3460&logo=github&logoColor=white" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/Adarshukumar?label=Followers&style=for-the-badge&color=0f0c29&logo=github&logoColor=white" alt="followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/Adarshukumar">
-    <img src="https://img.shields.io/github/stars/Adarshukumar?label=Total+Stars&style=for-the-badge&color=533483&logo=github&logoColor=white" alt="stars"/>
+    <img src="https://img.shields.io/github/stars/Adarshukumar?label=Total+Stars&style=for-the-badge&color=302b63&logo=github&logoColor=white" alt="stars"/>
   </a>
 </div>
 
@@ -38,12 +35,10 @@
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                  ABOUT ME  +  CODING GIF                      -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  ABOUT ME  ════════════════════ -->
 
-<img align="right" alt="coding" width="330"
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="AI gif" width="340"
+  src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 ### 🧬 &nbsp;`> whoami`
 
@@ -77,80 +72,87 @@ motto    : "Build fast. Break things. Learn faster."
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                   CONNECT WITH ME                             -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  CONNECT WITH ME  ════════════════════ -->
 
 ## 🌐 &nbsp; Connect With Me
 
-<br/>
 <div align="center">
-
-<!-- ROW 1 — Primary socials -->
-<a href="https://github.com/Adarshukumar">
-  <img src="https://img.shields.io/badge/GitHub-Adarshukumar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-</a>&nbsp;
-<a href="https://instagram.com/adarshu.io">
-  <img src="https://img.shields.io/badge/Instagram-adarshu.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/Adarshukumar">
-  <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>&nbsp;
-<a href="https://x.com/Adarshukumar">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40Adarshukumar-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
-</a>
-
-<br/><br/>
-
-<!-- ROW 2 — Dev platforms -->
-<a href="https://leetcode.com/Adarshukumar">
-  <img src="https://img.shields.io/badge/LeetCode-Adarshukumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
-</a>&nbsp;
-<a href="https://kaggle.com/Adarshukumar">
-  <img src="https://img.shields.io/badge/Kaggle-Adarshukumar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF"/>
-</a>&nbsp;
-<a href="https://hackerrank.com/Adarshukumar">
-  <img src="https://img.shields.io/badge/HackerRank-Adarshukumar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1ba94c"/>
-</a>&nbsp;
-<a href="https://huggingface.co/Adarshukumar">
-  <img src="https://img.shields.io/badge/HuggingFace-Adarshukumar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=e8a200"/>
-</a>
-
-<br/><br/>
-
-<!-- ROW 3 — Content & community -->
-<a href="https://youtube.com/@Adarshukumar">
-  <img src="https://img.shields.io/badge/YouTube-%40Adarshukumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
-</a>&nbsp;
-<a href="https://dev.to/Adarshukumar">
-  <img src="https://img.shields.io/badge/Dev.to-Adarshukumar-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A"/>
-</a>&nbsp;
-<a href="https://Adarshukumar.itch.io">
-  <img src="https://img.shields.io/badge/Itch.io-Adarshukumar-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white&labelColor=c9312c"/>
-</a>&nbsp;
-<a href="https://stackoverflow.com/users/Adarshukumar">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-Adarshukumar-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=c9621e"/>
-</a>
-
-<br/><br/>
-
-<!-- ROW 4 — Contact -->
-<a href="mailto:adarshukumar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-adarshukumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b"/>
-</a>&nbsp;
-<a href="https://discord.com/users/Adarshukumar">
-  <img src="https://img.shields.io/badge/Discord-Adarshukumar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752c4"/>
-</a>
-
+  <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="220" />
 </div>
+
+<br/>
+
+<!-- ── Icon-style socials (guilyx-inspired) ── -->
+<p align="center">
+
+  <a href="https://linkedin.com/in/Adarshukumar">
+    <img alt="Adarsh's LinkedIn" width="48px"
+      src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://open.spotify.com/user/Adarshukumar">
+    <img alt="Adarsh's Spotify" width="48px"
+      src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/Adarshukumar">
+    <img src="https://img.shields.io/badge/GitHub-Adarshukumar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>&nbsp;
+
+  <a href="https://instagram.com/adarshu.io">
+    <img src="https://img.shields.io/badge/Instagram-adarshu.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://x.com/Adarshukumar">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40Adarshukumar-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="https://leetcode.com/Adarshukumar">
+    <img src="https://img.shields.io/badge/LeetCode-Adarshukumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+  </a>&nbsp;
+
+  <a href="https://kaggle.com/Adarshukumar">
+    <img src="https://img.shields.io/badge/Kaggle-Adarshukumar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="https://huggingface.co/Adarshukumar">
+    <img src="https://img.shields.io/badge/HuggingFace-Adarshukumar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=e8a200"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://youtube.com/@Adarshukumar">
+    <img src="https://img.shields.io/badge/YouTube-%40Adarshukumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="https://dev.to/Adarshukumar">
+    <img src="https://img.shields.io/badge/Dev.to-Adarshukumar-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="https://stackoverflow.com/users/Adarshukumar">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Adarshukumar-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="mailto:adarshukumar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adarshukumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                      TECH STACK                               -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  TECH ARSENAL  ════════════════════ -->
 
 ## 🛠️ &nbsp; Tech Arsenal
+
+<img align="right" alt="coding gif" width="280"
+  src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"/>
 
 <details open>
 <summary><b>🤖 &nbsp; AI / Machine Learning</b></summary>
@@ -165,7 +167,6 @@ motto    : "Build fast. Break things. Learn faster."
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -204,7 +205,6 @@ motto    : "Build fast. Break things. Learn faster."
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </div>
 <br/>
@@ -218,7 +218,6 @@ motto    : "Build fast. Break things. Learn faster."
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
@@ -230,30 +229,11 @@ motto    : "Build fast. Break things. Learn faster."
 <br/>
 </details>
 
-<details>
-<summary><b>⚙️ &nbsp; Tools & Platforms</b></summary>
-<br/>
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch.io-FF0B34?style=flat-square&logo=itch.io&logoColor=white)
-
-</div>
-<br/>
-</details>
+<br clear="right"/>
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                    WHAT I'M BUILDING                          -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  WHAT I'M BUILDING  ════════════════════ -->
 
 ## 🚀 &nbsp; What I'm Building
 
@@ -287,52 +267,48 @@ motto    : "Build fast. Break things. Learn faster."
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                      GITHUB STATS                             -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  GITHUB STATS  ════════════════════ -->
 
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=Adarshukumar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile"/>
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api?username=Adarshukumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile"/>
   &nbsp;&nbsp;
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshukumar&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshukumar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img width="56%"
-    src="https://nirzak-streak-stats.vercel.app/?user=Adarshukumar&theme=midnight-purple&hide_border=true&ring=A855F7&fire=FF7043&currStreakLabel=A855F7"/>
+    src="https://nirzak-streak-stats.vercel.app/?user=Adarshukumar&theme=tokyonight&hide_border=true&ring=7EB2FF&fire=FF7043&currStreakLabel=7EB2FF"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img width="94%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshukumar&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=3b0764&hide_border=true"/>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarshukumar&bg_color=1a1b27&color=7eb2ff&line=3d5a80&point=7eb2ff&area=true&area_color=1e3a5f&hide_border=true"/>
 </div>
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                   ACHIEVEMENTS WALL                           -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  ACHIEVEMENTS  ════════════════════ -->
 
 ## 🏅 &nbsp; Achievements Wall
 
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-           ✦   H A L L   O F   A C H I E V E M E N T S   ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ✦   H A L L   O F   A C H I E V E M E N T S   ✦
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
   <img width="88%"
-    src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=discord&no-frame=true&no-bg=true&margin-w=16&margin-h=16&column=4"/>
+    src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&column=4"/>
 
 </div>
 
@@ -352,22 +328,27 @@ motto    : "Build fast. Break things. Learn faster."
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                    DEV QUOTE OF THE DAY                       -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  RECENT ACTIVITY  ════════════════════ -->
+
+## ⚡ &nbsp; Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<!-- ════════════════════  DEV QUOTE  ════════════════════ -->
 
 ## 💬 &nbsp; Dev Quote of the Day
 
 <div align="center">
   <img width="74%"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                      PYTHON BIO CARD                          -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  PYTHON BIO CARD  ════════════════════ -->
 
 ## ⚡ &nbsp;`adarsh.py`
 
@@ -417,9 +398,7 @@ for item in me.available_for():
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                   LET'S BUILD TOGETHER                        -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  LET'S BUILD TOGETHER  ════════════════════ -->
 
 ## 🤝 &nbsp; Let's Build Together
 
@@ -451,20 +430,18 @@ for item in me.available_for():
 
 ---
 
-<!-- ───────────────────────────────────────────────────────────── -->
-<!--                       FOOTER WAVE                             -->
-<!-- ───────────────────────────────────────────────────────────── -->
+<!-- ════════════════════  FOOTER  ════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:0f3460,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <sub>⭐ &nbsp; Star my repos if you find them useful &nbsp;·&nbsp; Made with 🖤 by
   <a href="https://github.com/Adarshukumar">Adarsh Kumar</a></sub>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20%E2%9D%A4%EF%B8%8F-533483?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20%E2%9D%A4%EF%B8%8F-302b63?style=flat-square&logo=python&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Role-AI%20Developer-0f3460?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-AI%20Developer-0f0c29?style=flat-square&logo=openai&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20Source-Lover-4ea94b?style=flat-square&logo=github&logoColor=white"/>
 </div>
