@@ -112,7 +112,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
-    <img alt="X Twitter" height="48"
+    <img alt="X Twitter" height="52"
       src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png"/>
   </a>
 
@@ -131,7 +131,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adarshukumar@gmail.com" title="Gmail">
-    <img alt="Gmail" height="30"
+    <img alt="Gmail" height="27"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -141,7 +141,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://hackerrank.com/Adarshukumar" title="HackerRank">
-    <img alt="HackerRank" height="40"
+    <img alt="HackerRank" height="47"
       src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
