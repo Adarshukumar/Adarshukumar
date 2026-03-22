@@ -37,7 +37,7 @@
 
 <!-- ════════════════════  ABOUT ME  ════════════════════ -->
 
-<img align="right" alt="AI gif" width="340"
+<img align="right" alt="Code with Adarsh" width="280"
   src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
 ### 🧬 &nbsp;`> whoami`
@@ -82,65 +82,66 @@ motto    : "Build fast. Break things. Learn faster."
 
 <br/>
 
-<!-- ── Icon-style socials (guilyx-inspired) ── -->
+<!-- ── Icon-style socials — all 48px fav-icon images ── -->
 <p align="center">
 
-  <a href="https://linkedin.com/in/Adarshukumar">
-    <img alt="Adarsh's LinkedIn" width="48px"
+  <a href="https://linkedin.com/in/Adarshukumar" title="LinkedIn">
+    <img alt="LinkedIn" width="48px"
       src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://open.spotify.com/user/Adarshukumar">
-    <img alt="Adarsh's Spotify" width="48px"
+  <a href="https://open.spotify.com/user/Adarshukumar" title="Spotify">
+    <img alt="Spotify" width="48px"
       src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/Adarshukumar">
-    <img src="https://img.shields.io/badge/GitHub-Adarshukumar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>&nbsp;
+  <a href="https://github.com/Adarshukumar" title="GitHub">
+    <img alt="GitHub" width="48px"
+      src="https://img.icons8.com/fluent/48/github.png"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://instagram.com/adarshu.io">
-    <img src="https://img.shields.io/badge/Instagram-adarshu.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
+  <a href="https://instagram.com/adarshu.io" title="Instagram">
+    <img alt="Instagram" width="48px"
+      src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://x.com/Adarshukumar" title="X / Twitter">
+    <img alt="X Twitter" width="48px"
+      src="https://img.icons8.com/color/48/twitterx--v1.png"/>
   </a>
 
 </p>
 
 <p align="center">
 
-  <a href="https://x.com/Adarshukumar">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40Adarshukumar-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;
+  <a href="https://youtube.com/@Adarshukumar" title="YouTube">
+    <img alt="YouTube" width="48px"
+      src="https://img.icons8.com/color/48/youtube-play.png"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/Adarshukumar">
-    <img src="https://img.shields.io/badge/LeetCode-Adarshukumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
-  </a>&nbsp;
+  <a href="https://discord.com/users/Adarshukumar" title="Discord">
+    <img alt="Discord" width="48px"
+      src="https://img.icons8.com/color/48/discord-logo.png"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://kaggle.com/Adarshukumar">
-    <img src="https://img.shields.io/badge/Kaggle-Adarshukumar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>&nbsp;
+  <a href="mailto:adarshukumar@gmail.com" title="Gmail">
+    <img alt="Gmail" width="48px"
+      src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://huggingface.co/Adarshukumar">
-    <img src="https://img.shields.io/badge/HuggingFace-Adarshukumar-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=e8a200"/>
-  </a>
+  <a href="https://huggingface.co/Adarshukumar" title="HuggingFace">
+    <img alt="HuggingFace" width="48px"
+      src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
+  </a>&nbsp;&nbsp;
 
-</p>
+  <a href="https://hackerrank.com/Adarshukumar" title="HackerRank">
+    <img alt="HackerRank" width="48px"
+      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
+  </a>&nbsp;&nbsp;
 
-<p align="center">
-
-  <a href="https://youtube.com/@Adarshukumar">
-    <img src="https://img.shields.io/badge/YouTube-%40Adarshukumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>&nbsp;
-
-  <a href="https://dev.to/Adarshukumar">
-    <img src="https://img.shields.io/badge/Dev.to-Adarshukumar-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>&nbsp;
-
-  <a href="https://stackoverflow.com/users/Adarshukumar">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Adarshukumar-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>&nbsp;
-
-  <a href="mailto:adarshukumar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adarshukumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://Adarshukumar.itch.io" title="Itch.io">
+    <img alt="Itch.io" width="48px"
+      src="https://img.icons8.com/color/48/itch-io.png"/>
   </a>
 
 </p>
@@ -301,28 +302,26 @@ motto    : "Build fast. Break things. Learn faster."
 
 <div align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        ✦   H A L L   O F   A C H I E V E M E N T S   ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:302b63&text=%E2%9C%A6%20%20HALL%20OF%20ACHIEVEMENTS%20%20%E2%9C%A6&fontColor=FFD700&fontSize=20&height=52&fontAlign=50&fontAlignY=55&animation=fadeIn" width="72%"/>
 
-  <img width="88%"
+  <br/><br/>
+
+  <img width="90%"
     src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=algolia&no-frame=true&no-bg=true&margin-w=16&margin-h=16&column=4"/>
 
-</div>
+  <br/>
 
-<br/>
+  <img src="https://img.shields.io/badge/⭐%20Rising%20Star-Daily%20Commits-2ea44f?style=for-the-badge&labelColor=1a1b27"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀%20Launcher-Repos%20shipped-302b63?style=for-the-badge&labelColor=1a1b27"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💫%20Star%20Gazer-Quality%20code-blue?style=for-the-badge&labelColor=1a1b27"/>
 
-<div align="center">
+  <br/><br/>
 
-| &nbsp;&nbsp; 🏅 Badge &nbsp;&nbsp; | &nbsp;&nbsp; 📌 Category &nbsp;&nbsp; | &nbsp;&nbsp; 🎯 Goal &nbsp;&nbsp; | &nbsp;&nbsp; 🔥 Status &nbsp;&nbsp; |
-|:---:|:---:|:---:|:---:|
-| ⭐ Rising Star | Commits | Daily pushes | 🟢 Active |
-| 🚀 Launcher | Repositories | Ship quality | 🟡 Growing |
-| 💫 Star Gazer | GitHub Stars | Quality > Quantity | 🟢 Climbing |
-| 👾 Contributor | Pull Requests | Open Source | 🟡 Hustling |
-| 🌍 Builder | Community | Build + Share | 🟢 Rising |
+  <img src="https://img.shields.io/badge/👾%20Contributor-Open%20Source-orange?style=for-the-badge&labelColor=1a1b27"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌍%20Builder-Community%20%26%20Impact-7eb2ff?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
 
