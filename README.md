@@ -37,39 +37,41 @@
 
 <!-- ════════════════════  ABOUT ME  ════════════════════ -->
 
-<div align="right" style="float:right; margin-left:20px; margin-bottom:10px;">
-  <img alt="Code with Adarsh" width="280"
-    src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
-  <br/>
-  <sub>💻 &nbsp; <i>Code with Adarsh</i></sub>
-</div>
+<img align="right" alt="coding" width="280"
+  src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 
-### 🧬 &nbsp;`> whoami`
+### 👋 &nbsp; Hey, I'm Adarsh!
 
 ```yaml
-╔══════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════╗
   name      :  Adarsh Kumar
   handle    :  @Adarshukumar
   role      :  AI Developer & ML Engineer
   instagram :  adarshu.io
   location  :  India  🇮🇳
-  mission   :  Build AI that actually works
-╚══════════════════════════════════════════════╝
+  vibe      :  Building AI that actually helps people
+╚══════════════════════════════════════════════════╝
 
-focus:
-  ·  Artificial Intelligence & LLMs
-  ·  Machine Learning & Deep Learning
-  ·  Full Stack AI Applications
-  ·  API Design & Backend Systems
+about_me   :  >
+  I'm a developer who loves turning crazy ideas
+  into real AI-powered things. I enjoy building,
+  breaking, and learning — repeat forever 🔄
 
-currently:
+what_i_love:
+  ·  Artificial Intelligence & LLMs  🤖
+  ·  Machine Learning & Deep Learning 🧠
+  ·  Full Stack AI Applications       🌐
+  ·  Clean APIs & Backend Systems     ⚙️
+
+right_now:
   🔭  Building autonomous AI agents
-  🌱  Deep-diving into RAG + LangChain
-  🤝  Open to AI / ML collaborations
-  ⚡  Shipping side projects fast
+  🌱  Going deeper into RAG + LangChain
+  🤝  Always open for cool collabs
+  ⚡  Shipping things fast & learning faster
 
-fun_fact : "I debug with print() — no shame 🛠️"
-motto    : "Build fast. Break things. Learn faster."
+fun_fact   : "I debug with print() — zero regrets 🛠️"
+coffee_lvl : "☕☕☕ always"
+motto      : "Ship it, learn from it, do it better 🚀"
 ```
 
 <br clear="right"/>
@@ -86,32 +88,32 @@ motto    : "Build fast. Break things. Learn faster."
 
 <br/>
 
-<!-- ── Cute colorful favicon-style icons ── -->
+<!-- ── All icons from GitHub-hosted CDN — loads 100% reliably ── -->
 <p align="center">
 
   <a href="https://linkedin.com/in/Adarshukumar" title="LinkedIn">
-    <img alt="LinkedIn" width="48px"
-      src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="LinkedIn" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://open.spotify.com/user/Adarshukumar" title="Spotify">
-    <img alt="Spotify" width="48px"
+    <img alt="Spotify" height="40"
       src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/Adarshukumar" title="GitHub">
-    <img alt="GitHub" width="48px"
-      src="https://img.icons8.com/fluency/48/github.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="GitHub" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/adarshu.io" title="Instagram">
-    <img alt="Instagram" width="48px"
-      src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="Instagram" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
-    <img alt="X Twitter" width="48px"
-      src="https://img.icons8.com/fluency/48/twitterx.png"/>
+    <img alt="X Twitter" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
   </a>
 
 </p>
@@ -119,33 +121,33 @@ motto    : "Build fast. Break things. Learn faster."
 <p align="center">
 
   <a href="https://youtube.com/@Adarshukumar" title="YouTube">
-    <img alt="YouTube" width="48px"
-      src="https://img.icons8.com/fluency/48/youtube-play.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="YouTube" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.com/users/Adarshukumar" title="Discord">
-    <img alt="Discord" width="48px"
-      src="https://img.icons8.com/fluency/48/discord-logo.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="Discord" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adarshukumar@gmail.com" title="Gmail">
-    <img alt="Gmail" width="48px"
-      src="https://img.icons8.com/fluency/48/gmail-new.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="Gmail" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://huggingface.co/Adarshukumar" title="HuggingFace">
-    <img alt="HuggingFace" width="48px"
-      src="https://img.icons8.com/color/48/hugging-face.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="HuggingFace" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hugging_face.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://hackerrank.com/Adarshukumar" title="HackerRank">
-    <img alt="HackerRank" width="48px"
-      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
-  </a>&nbsp;&nbsp;
+    <img alt="HackerRank" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://Adarshukumar.itch.io" title="Itch.io">
-    <img alt="Itch.io" width="48px"
-      src="https://img.icons8.com/fluency/48/itch-io.png"/>
+    <img alt="Itch.io" height="40"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/itch-io.svg"/>
   </a>
 
 </p>
