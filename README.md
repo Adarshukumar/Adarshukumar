@@ -92,8 +92,8 @@ motto      : "Ship it, learn from it, do it better 🚀"
 <p align="center">
 
   <a href="https://linkedin.com/in/Adarshukumar" title="LinkedIn">
-    <img alt="LinkedIn" height="40"
-      src="https://static.vecteezy.com/system/resources/thumbnails/023/986/970/small/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"/>
+    <img alt="LinkedIn" height="41"
+      src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://open.spotify.com/user/Adarshukumar" title="Spotify">
@@ -107,13 +107,13 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/adarshu.io" title="Instagram">
-    <img alt="Instagram" height="40"
+    <img alt="Instagram" height="42"
       src="https://www.clipartmax.com/png/full/437-4375643_log-in-logo-instagram-1-cor.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
-    <img alt="X Twitter" height="40"
-      src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"/>
+    <img alt="X Twitter" height="42"
+      src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png"/>
   </a>
 
 </p>
@@ -121,7 +121,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 <p align="center">
 
   <a href="https://youtube.com/@Adarshukumar" title="YouTube">
-    <img alt="YouTube" height="40"
+    <img alt="YouTube" height="32"
       src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -131,7 +131,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adarshukumar@gmail.com" title="Gmail">
-    <img alt="Gmail" height="40"
+    <img alt="Gmail" height="35"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -146,7 +146,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://Adarshukumar.itch.io" title="Itch.io">
-    <img alt="Itch.io" height="40"
+    <img alt="Itch.io" height="37"
       src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-512x459.png"/>
   </a>
 
