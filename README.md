@@ -314,7 +314,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 <!-- Trophies — nord theme, most reliable -->
 <img width="92%"
-  src="https://github-profile-trophy.vercel.app/?username=Adarshukumar&theme=nord&no-frame=false&no-bg=true&margin-w=14&margin-h=14&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <br/><br/>
 
