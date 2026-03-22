@@ -348,25 +348,6 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 ---
 
-<!-- ════════════════════  RECENT ACTIVITY  ════════════════════ -->
-
-## ⚡ &nbsp; Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<!-- ════════════════════  DEV QUOTE  ════════════════════ -->
-
-## 💬 &nbsp; Dev Quote of the Day
-
-<div align="center">
-  <img width="74%"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
 
 <!-- ════════════════════  PYTHON BIO CARD  ════════════════════ -->
 
