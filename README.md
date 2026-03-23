@@ -126,7 +126,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://discord.com/users/Adarshukumar" title="Discord">
-    <img alt="Discord" height="42"
+    <img alt="Discord" height="47"
       src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
