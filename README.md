@@ -103,12 +103,12 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
   <a href="https://github.com/Adarshukumar" title="GitHub">
     <img alt="GitHub" height="40"
-      src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
+      src="https://images.icon-icons.com/2428/PNG/512/github_black_logo_icon_147128.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/adarshu.io" title="Instagram">
     <img alt="Instagram" height="40"
-      src="https://www.clipartmax.com/png/full/437-4375643_log-in-logo-instagram-1-cor.png"/>
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/960px-Instagram_logo_2016.svg.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
@@ -127,7 +127,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
   <a href="https://discord.com/users/Adarshukumar" title="Discord">
     <img alt="Discord" height="42"
-      src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png"/>
+      src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:adarshukumar@gmail.com" title="Gmail">
