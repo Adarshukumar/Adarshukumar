@@ -108,7 +108,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
   <a href="https://instagram.com/adarshu.io" title="Instagram">
     <img alt="Instagram" height="40"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/960px-Instagram_logo_2016.svg.png"/>
+      src="https://static.xx.fbcdn.net/assets/?set=help_center_about_page_illustrations&name=desktop-instagram-gradient-logo&density=1"/>
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://x.com/Adarshukumar" title="X / Twitter">
