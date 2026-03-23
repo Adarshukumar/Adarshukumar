@@ -37,8 +37,9 @@
 
 <!-- ════════════════════  ABOUT ME  ════════════════════ -->
 
-<img align="right" alt="coding" width="280"
-  src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+<table>
+<tr>
+<td valign="top">
 
 ### 👋 &nbsp; Hey, I'm Adarsh!
 
@@ -74,7 +75,15 @@ coffee_lvl : "☕☕☕ always"
 motto      : "Ship it, learn from it, do it better 🚀"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="300" align="center">
+
+<img alt="coding" width="280"
+  src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -143,6 +152,11 @@ motto      : "Ship it, learn from it, do it better 🚀"
   <a href="https://linktr.ee/adarshu" title="Linktree">
     <img alt="Linktree" height="40"
       src="https://static.vecteezy.com/system/resources/previews/070/730/261/non_2x/linktree-logo-in-transparent-background-free-png.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://Adarshukumar.itch.io" title="Itch.io">
+    <img alt="Itch.io" height="35"
+      src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-512x459.png"/>
   </a>
 
 </p>
@@ -243,54 +257,67 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=2&width=80%" />
+<table border="0" cellspacing="12" cellpadding="0">
+<tr>
 
+<!-- ── CARD 1 : AI AGENTS ── -->
+<td align="center" width="270">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=50&text=%F0%9F%A4%96%20%20AI%20%20AGENTS&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="240"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<br/><br/>
+<sub>Autonomous LLM-powered agents<br/>with multi-step reasoning & tool use</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●%20IN%20PROGRESS-7EB2FF?style=flat-square&labelColor=0d1117&color=7EB2FF"/>
+</td>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="260" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%A4%96%20%20AI%20AGENTS-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/><br/>
-      <sub>Autonomous LLM-powered agents<br/>with multi-step reasoning & tool use</sub><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-7EB2FF?style=flat-square&labelColor=0d1117" />
-    </td>
-    <td width="20"></td>
-    <td align="center" width="260" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20%20RAG%20PIPELINES-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vector%20DB-FF6F00?style=flat-square&logo=databricks&logoColor=white" /><br/><br/>
-      <sub>Retrieval-Augmented Generation<br/>systems for smart document Q&A</sub><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-SHIPPING-43D675?style=flat-square&labelColor=0d1117" />
-    </td>
-  </tr>
-  <tr><td colspan="3" height="20"></td></tr>
-  <tr>
-    <td align="center" width="260" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/%E2%9A%A1%20%20AI%20APIs-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /><br/><br/>
-      <sub>Production-ready FastAPI services<br/>powering ML microservice backends</sub><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF7043?style=flat-square&labelColor=0d1117" />
-    </td>
-    <td width="20"></td>
-    <td align="center" width="260" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20%20AI%20%C3%97%20GAMES-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/><br/>
-      <sub>Applying ML models & computer vision<br/>directly into game development</sub><br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-EXPLORING-B39DDB?style=flat-square&labelColor=0d1117" />
-    </td>
-  </tr>
+<!-- ── CARD 2 : RAG PIPELINES ── -->
+<td align="center" width="270">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=50&text=%F0%9F%A7%A0%20%20RAG%20%20PIPELINES&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="240"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<br/><br/>
+<sub>Retrieval-Augmented Generation<br/>systems for smart document Q&A</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●%20SHIPPING-43D675?style=flat-square&labelColor=0d1117&color=43D675"/>
+</td>
+
+</tr>
+<tr><td colspan="2" height="12"></td></tr>
+<tr>
+
+<!-- ── CARD 3 : AI APIs ── -->
+<td align="center" width="270">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=50&text=%E2%9A%A1%20%20AI%20%20APIS&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="240"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<br/><br/>
+<sub>Production-ready FastAPI services<br/>powering ML microservice backends</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●%20DEPLOYED-FF7043?style=flat-square&labelColor=0d1117&color=FF7043"/>
+</td>
+
+<!-- ── CARD 4 : AI × GAMES ── -->
+<td align="center" width="270">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=50&text=%F0%9F%8E%AE%20%20AI%20%C3%97%20GAMES&fontSize=17&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="240"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+<br/><br/>
+<sub>Applying ML models & computer vision<br/>directly into game development</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/●%20EXPLORING-B39DDB?style=flat-square&labelColor=0d1117&color=B39DDB"/>
+</td>
+
+</tr>
 </table>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=2&width=80%" />
 
 </div>
 
