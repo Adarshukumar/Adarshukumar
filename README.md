@@ -91,7 +91,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 <!-- ── All icons from GitHub-hosted CDN — loads 100% reliably ── -->
 <p align="center">
 
-  <a href="https://linkedin.com/in/Adarshukumar" title="LinkedIn">
+  <a href="https://linkedin.com/in/adarshu07" title="LinkedIn">
     <img alt="LinkedIn" height="40"
       src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -111,7 +111,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
       src="https://static.xx.fbcdn.net/assets/?set=help_center_about_page_illustrations&name=desktop-instagram-gradient-logo&density=1"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/Adarshukumar" title="X / Twitter">
+  <a href="https://x.com/Adarshukumar07" title="X / Twitter">
     <img alt="X Twitter" height="52"
       src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png"/>
   </a>
@@ -135,19 +135,14 @@ motto      : "Ship it, learn from it, do it better 🚀"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://huggingface.co/Adarshukumar" title="HuggingFace">
+  <a href="https://huggingface.co/AdarshJi" title="HuggingFace">
     <img alt="HuggingFace" height="40"
       src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://hackerrank.com/Adarshukumar" title="HackerRank">
-    <img alt="HackerRank" height="47"
-      src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://Adarshukumar.itch.io" title="Itch.io">
-    <img alt="Itch.io" height="35"
-      src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-512x459.png"/>
+  <a href="https://linktr.ee/adarshu" title="Linktree">
+    <img alt="Linktree" height="40"
+      src="https://static.vecteezy.com/system/resources/previews/070/730/261/non_2x/linktree-logo-in-transparent-background-free-png.png"/>
   </a>
 
 </p>
@@ -245,31 +240,58 @@ motto      : "Ship it, learn from it, do it better 🚀"
 ## 🚀 &nbsp; What I'm Building
 
 <br/>
+
 <div align="center">
-<table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=2&width=80%" />
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="200">
-      <h3>🤖</h3>
-      <b>AI Agents</b><br/><br/>
-      <sub>Autonomous LLM-powered<br/>multi-step reasoning agents</sub>
+    <td align="center" width="260" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%A4%96%20%20AI%20AGENTS-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/><br/>
+      <sub>Autonomous LLM-powered agents<br/>with multi-step reasoning & tool use</sub><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-7EB2FF?style=flat-square&labelColor=0d1117" />
     </td>
-    <td align="center" width="200">
-      <h3>🧠</h3>
-      <b>RAG Pipelines</b><br/><br/>
-      <sub>Retrieval-Augmented<br/>Generation systems</sub>
+    <td width="20"></td>
+    <td align="center" width="260" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20%20RAG%20PIPELINES-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vector%20DB-FF6F00?style=flat-square&logo=databricks&logoColor=white" /><br/><br/>
+      <sub>Retrieval-Augmented Generation<br/>systems for smart document Q&A</sub><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-SHIPPING-43D675?style=flat-square&labelColor=0d1117" />
     </td>
-    <td align="center" width="200">
-      <h3>⚡</h3>
-      <b>AI APIs</b><br/><br/>
-      <sub>Production FastAPI<br/>+ ML microservices</sub>
+  </tr>
+  <tr><td colspan="3" height="20"></td></tr>
+  <tr>
+    <td align="center" width="260" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/%E2%9A%A1%20%20AI%20APIs-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" /><br/><br/>
+      <sub>Production-ready FastAPI services<br/>powering ML microservice backends</sub><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF7043?style=flat-square&labelColor=0d1117" />
     </td>
-    <td align="center" width="200">
-      <h3>🎮</h3>
-      <b>AI × Games</b><br/><br/>
-      <sub>Applying ML models<br/>to game development</sub>
+    <td width="20"></td>
+    <td align="center" width="260" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/──────────────────────-0d1117?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20%20AI%20%C3%97%20GAMES-181825?style=for-the-badge&labelColor=0f0c29&color=302b63" /><br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/><br/>
+      <sub>Applying ML models & computer vision<br/>directly into game development</sub><br/><br/>
+      <img src="https://img.shields.io/badge/STATUS-EXPLORING-B39DDB?style=flat-square&labelColor=0d1117" />
     </td>
   </tr>
 </table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=2&width=80%" />
+
 </div>
 
 ---
@@ -290,7 +312,7 @@ motto      : "Ship it, learn from it, do it better 🚀"
 
 <div align="center">
   <img width="56%"
-    src="https://nirzak-streak-stats.vercel.app/?user=Adarshukumar&theme=tokyonight&hide_border=true&ring=7EB2FF&fire=FF7043&currStreakLabel=7EB2FF"/>
+    src="https://streak-stats.demolab.com/?user=Adarshukumar&theme=tokyonight&hide_border=true&ring=7EB2FF&fire=FF7043&currStreakLabel=7EB2FF"/>
 </div>
 
 <br/>
@@ -420,7 +442,7 @@ for item in me.available_for():
 <a href="https://instagram.com/adarshu.io">
   <img src="https://img.shields.io/badge/adarshu.io-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/Adarshukumar">
+<a href="https://linkedin.com/in/adarshu07">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/Adarshukumar">
