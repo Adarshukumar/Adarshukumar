@@ -4,6 +4,7 @@
 
 <!-- ════════════════════  HEADER BANNER  ════════════════════ -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f0c29,60:302b63,100:24243e&height=230&section=header&text=Adarsh%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=57&descSize=19&descColor=b0c4de" width="100%"/>
   <img src="dta.jpg" alt="DevsDoCode's AI Universe" width="100%">
 </div>
 
